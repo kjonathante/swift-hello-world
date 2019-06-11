@@ -76,4 +76,3 @@ print("The status code is \(http200Status.statusCode)")
 print("The status message is \(http200Status.description)")
 // Prints "The status message is OK"
 
-sayHello()
